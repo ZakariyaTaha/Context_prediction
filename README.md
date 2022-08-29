@@ -22,3 +22,6 @@ python accuracy.py
 `````
 
 This command can take one argument [--n], which is the number of questions taken into account. By default it takes all the dataset questions.
+<br>
+
+Additionally, you can find some of things I've tried to get a better prediction on draft_code.ipynb
