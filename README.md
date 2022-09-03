@@ -2,6 +2,7 @@
 
 This project has been done as a 2-day challenge.
 <br>
+
 In order to get the prediction, you first run process_data.py, which creates the pickled file needed for the prediction (otherwise there's a big loss of computing time for each prediction). You can run by writing the command:
 ````
 python process_data.py
